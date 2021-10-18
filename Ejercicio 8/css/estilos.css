@@ -1,0 +1,20 @@
+#caja1 {
+    background-image: url("imagenes/imagen1.jpg");
+    background-repeat: no-repeat;
+    background-position: bottom left;
+  }
+  #caja2 {
+    background-image: url("imagenes/imagen2.jpg");
+    background-repeat: no-repeat;
+    background-position: right top;
+  }
+  #caja3 {
+    background-image: url("imagenes/imagen3.jpg");
+    background-repeat: no-repeat;
+    background-position: 50% 50%;
+  }
+  #caja4 {
+    background-image: url("imagenes/imagen4.jpg");
+    background-repeat: no-repeat;
+    background-position: left top;
+}
