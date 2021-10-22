@@ -1,20 +1,33 @@
-#caja1 {
-    background-image: url("imagenes/imagen1.jpg");
-    background-repeat: no-repeat;
-    background-position: bottom left;
-  }
-  #caja2 {
-    background-image: url("imagenes/imagen2.jpg");
-    background-repeat: no-repeat;
-    background-position: right top;
-  }
-  #caja3 {
-    background-image: url("imagenes/imagen3.jpg");
-    background-repeat: no-repeat;
-    background-position: 50% 50%;
-  }
-  #caja4 {
-    background-image: url("imagenes/imagen4.jpg");
-    background-repeat: no-repeat;
-    background-position: left top;
+h1{
+  font-size: 30px;
+  text-align: center;
+  color: yellow;
 }
+#caja1 {
+    background-image: url(/imagenes/imagen1.jpg);
+    background-repeat: no-repeat ;
+    float: left;
+    margin: 10px 10px auto;
+    padding: 150px;
+  }
+#caja2 {
+    background-image: url(/imagenes/imagen2.jpg);
+    background-repeat: no-repeat;
+    float: right;
+    margin: 10px 10px auto;
+    padding: 150px;
+  }
+#caja3 {
+    background-image: url(/imagenes/imagen3.jpg);
+    background-repeat: no-repeat;
+    float: left;
+    margin: 10px 10px auto;
+    padding: 150px;
+  }
+#caja4 {
+    background-image: url(/imagenes/imagen4.jpg);
+    background-repeat: no-repeat;
+    float: right;
+    margin: 10px 10px auto;
+    padding: 150px;
+  }
